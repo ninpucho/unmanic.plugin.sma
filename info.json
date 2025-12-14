@@ -1,13 +1,13 @@
 {
-    "author": "Josh.5",
+    "author": "ninpucho",
     "compatibility": [
         1,
         2
     ],
-    "description": "Automatically converts media files downloaded by various programs to a standardized format, and tags them with the appropriate metadata from TMDB if the container supports tagging.",
-    "icon": "https://raw.githubusercontent.com/Josh5/unmanic.plugin.sma/master/icon.png",
-    "id": "sma",
-    "name": "SMA Conversion/Tagging Automation Script",
+    "description": "Automatically converts media files downloaded by various programs to a standardized format, and tags them with the appropriate metadata from TMDB if the container supports tagging. With Updated SMA",
+    "icon": "https://raw.githubusercontent.com/ninpucho/unmanic.plugin.sma/master/icon.png",
+    "id": "SMAV2",
+    "name": "SMA Conversion/Tagging Automation Script V2",
     "platform": [
         "linux"
     ],
@@ -17,5 +17,5 @@
         "on_postprocessor_task_results":1
     },
     "tags": "video,ffmpeg,library file test",
-    "version": "0.0.4"
+    "version": "0.0.5"
 }
