@@ -309,6 +309,7 @@ def build_worker_args(settings, abspath):
         '--auto',
         '--nopost',
         '--nodelete',
+        '--tagonly'
     ]
 
 
