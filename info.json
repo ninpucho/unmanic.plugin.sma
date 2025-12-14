@@ -6,7 +6,7 @@
     ],
     "description": "Automatically converts media files downloaded by various programs to a standardized format, and tags them with the appropriate metadata from TMDB if the container supports tagging. With Updated SMA",
     "icon": "https://raw.githubusercontent.com/ninpucho/unmanic.plugin.sma/master/icon.png",
-    "id": "SMAV2",
+    "id": "smav2",
     "name": "SMA Conversion/Tagging Automation Script V2",
     "platform": [
         "linux"
